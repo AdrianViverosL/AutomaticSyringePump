@@ -1,0 +1,29 @@
+C:/Users/Adrian Viveros/source/repos/SyringePump/SyringePump/bin/Debug/SyringePump.exe.config
+C:/Users/Adrian Viveros/source/repos/SyringePump/SyringePump/bin/Debug/SyringePump.exe
+C:/Users/Adrian Viveros/source/repos/SyringePump/SyringePump/bin/Debug/SyringePump.pdb
+C:/Users/Adrian Viveros/source/repos/SyringePump/SyringePump/obj/Debug/SyringePump.csprojAssemblyReference.cache
+C:/Users/Adrian Viveros/source/repos/SyringePump/SyringePump/obj/Debug/SyringePump.Form1.resources
+C:/Users/Adrian Viveros/source/repos/SyringePump/SyringePump/obj/Debug/SyringePump.Properties.Resources.resources
+C:/Users/Adrian Viveros/source/repos/SyringePump/SyringePump/obj/Debug/SyringePump.csproj.GenerateResource.cache
+C:/Users/Adrian Viveros/source/repos/SyringePump/SyringePump/obj/Debug/SyringePump.csproj.CoreCompileInputs.cache
+C:/Users/Adrian Viveros/source/repos/SyringePump/SyringePump/obj/Debug/SyringePump.exe
+C:/Users/Adrian Viveros/source/repos/SyringePump/SyringePump/obj/Debug/SyringePump.pdb
+C:/Users/usuario/source/repos/SyringePump/SyringePump/bin/Debug/SyringePump.exe.config
+C:/Users/usuario/source/repos/SyringePump/SyringePump/bin/Debug/SyringePump.exe
+C:/Users/usuario/source/repos/SyringePump/SyringePump/bin/Debug/SyringePump.pdb
+C:/Users/usuario/source/repos/SyringePump/SyringePump/obj/Debug/SyringePump.csprojAssemblyReference.cache
+C:/Users/usuario/source/repos/SyringePump/SyringePump/obj/Debug/SyringePump.Form1.resources
+C:/Users/usuario/source/repos/SyringePump/SyringePump/obj/Debug/SyringePump.Properties.Resources.resources
+C:/Users/usuario/source/repos/SyringePump/SyringePump/obj/Debug/SyringePump.csproj.GenerateResource.cache
+C:/Users/usuario/source/repos/SyringePump/SyringePump/obj/Debug/SyringePump.exe
+C:/Users/usuario/source/repos/SyringePump/SyringePump/obj/Debug/SyringePump.pdb
+/Users/adsvluqs/Documents/TEC/TecPuebla/AGO-DEC'19/Interfaces/Final_Interfaces/SyringePump/SyringePump/bin/Debug/SyringePump.exe.config
+/Users/adsvluqs/Documents/TEC/TecPuebla/AGO-DEC'19/Interfaces/Final_Interfaces/SyringePump/SyringePump/bin/Debug/SyringePump.exe
+/Users/adsvluqs/Documents/TEC/TecPuebla/AGO-DEC'19/Interfaces/Final_Interfaces/SyringePump/SyringePump/bin/Debug/SyringePump.pdb
+/Users/adsvluqs/Documents/TEC/TecPuebla/AGO-DEC'19/Interfaces/Final_Interfaces/SyringePump/SyringePump/obj/Debug/SyringePump.csprojAssemblyReference.cache
+/Users/adsvluqs/Documents/TEC/TecPuebla/AGO-DEC'19/Interfaces/Final_Interfaces/SyringePump/SyringePump/obj/Debug/SyringePump.Form1.resources
+/Users/adsvluqs/Documents/TEC/TecPuebla/AGO-DEC'19/Interfaces/Final_Interfaces/SyringePump/SyringePump/obj/Debug/SyringePump.Properties.Resources.resources
+/Users/adsvluqs/Documents/TEC/TecPuebla/AGO-DEC'19/Interfaces/Final_Interfaces/SyringePump/SyringePump/obj/Debug/SyringePump.csproj.GenerateResource.cache
+/Users/adsvluqs/Documents/TEC/TecPuebla/AGO-DEC'19/Interfaces/Final_Interfaces/SyringePump/SyringePump/obj/Debug/SyringePump.csproj.CoreCompileInputs.cache
+/Users/adsvluqs/Documents/TEC/TecPuebla/AGO-DEC'19/Interfaces/Final_Interfaces/SyringePump/SyringePump/obj/Debug/SyringePump.exe
+/Users/adsvluqs/Documents/TEC/TecPuebla/AGO-DEC'19/Interfaces/Final_Interfaces/SyringePump/SyringePump/obj/Debug/SyringePump.pdb
